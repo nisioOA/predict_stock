@@ -1,0 +1,12 @@
+altair
+
+numpy
+pandas
+pandas-datareader
+Pillow
+plotly
+scikit-learn >= o.18
+scipy
+
+streamlit
+yfinance
